@@ -1,3 +1,3 @@
-# xsspayload
+# XSS Payloads
 
 XSS Payload List
